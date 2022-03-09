@@ -34,7 +34,7 @@ After training model using tomato leaf dataset on GPU provided by Google Colab, 
 
 ## B. Crop Recommendation
 
-Crop Selection has become very important. It is crucial to identify crops that go well with the weather and atmosphere of the land. It is also important to take into consideration the nutrients and chemicals present in the soil before planting the crops. The system proposed in the paper takes into consideration all these parameters and suggests the optimal crop . The system takes input of Nitrogen, Phosphorus, Potassium and pH level of the soil along with Temperature, Humidity and Rainfall in the region.
+Crop Selection has become very important. It is crucial to identify crops that go well with the weather and atmosphere of the land. It is also important to take into consideration the nutrients and chemicals present in the soil before planting the crops. This system takes into consideration all these parameters and suggests the optimal crop . The system takes input of Nitrogen, Phosphorus, Potassium and pH level of the soil along with Temperature, Humidity and Rainfall in the region.
 
 **Dataset:**
 The dataset is in the form of a csv file. The dataset consists of 7 parameters namely - Nitrogen level, Phosphorus level, Potassium level, Temperature ,Rainfall in the region ,pH level of soil and humidity. Total 22 crops are included in the database along with the levels of the above-mentioned parameters for each of these crops. In totality 100 data points of each of these crops are included in the dataset. Therefore, there are 2200 different data points in the dataset.
